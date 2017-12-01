@@ -1,4 +1,4 @@
-# Learn PHP Programming Lesson 3
+# PHP Design Patterns, Simple Factory and Factory Method
 
 This project contains the code mentioned in the 'PHP Design Patterns, Simple Factory and Factory Method' tutorial.
 
